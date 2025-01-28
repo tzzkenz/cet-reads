@@ -1,0 +1,25 @@
+.section2 {
+  background-image: url("../../../assets/backgrounds/landing/2.png");
+  height: 100vh;
+  padding: 60px 80px;
+}
+
+.section2 h1 {
+  font-size: 40px;
+  text-align: center;
+  margin-bottom: 40px;
+}
+.section2 .get-books-container {
+  display: flex;
+  justify-content: center;
+}
+.section2 .get-books-container .get-books {
+  background-color: white;
+  border: 0;
+  width: 150px;
+  height: 50px;
+  border-radius: 12.5px;
+  font-size: 17.5px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  margin: 45px auto;
+}
