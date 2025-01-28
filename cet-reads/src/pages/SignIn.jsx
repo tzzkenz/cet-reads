@@ -21,7 +21,7 @@ const SignIn = () => {
           </button>
         </form>
         <p className="create-account">
-          Or <a href="#">Create a new account</a>
+          Or <a href="/signup">Create a new account</a>
         </p>
       </div>
       <div className="login-image-container">
